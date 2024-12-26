@@ -196,9 +196,10 @@ package main
 
 import (
 	"math"
-	"github.com/discoverkl/goterm/term"
+
 	"github.com/discoverkl/goterm/df"
-	"term/df/vs"
+	"github.com/discoverkl/goterm/df/vs"
+	"github.com/discoverkl/goterm/term"
 )
 
 func main() {
