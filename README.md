@@ -84,7 +84,7 @@ func main() {
 	term.Open()
 	defer term.Close()
 
-    term.Block(term.Image("https://go.dev/images/gophers/ladder.svg"))
+	term.Block(term.Image("https://go.dev/images/gophers/ladder.svg"))
 }
 
 ```
