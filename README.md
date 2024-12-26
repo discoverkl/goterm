@@ -19,8 +19,8 @@ package main
 
 import (
 	"fmt"
-	"term"
-	"term/df"
+	"github.com/discoverkl/goterm/term"
+	"github.com/discoverkl/goterm/df"
 )
 
 func main() {
@@ -48,8 +48,8 @@ package main
 
 import (
 	"fmt"
-	"term"
-	"term/df"
+	"github.com/discoverkl/goterm/term"
+	"github.com/discoverkl/goterm/df"
 )
 
 func main() {
@@ -77,7 +77,7 @@ Goterm supports both online and embedded images.
 package main
 
 import (
-	"term"
+	"github.com/discoverkl/goterm/term"
 )
 
 func main() {
@@ -97,8 +97,8 @@ func main() {
 package main
 
 import (
-	"term"
-	"term/df"
+	"github.com/discoverkl/goterm/term"
+	"github.com/discoverkl/goterm/df"
 )
 
 func main() {
@@ -120,7 +120,7 @@ import (
 	"image/color"
 	"image/png"
 	"math/cmplx"
-	"term"
+	"github.com/discoverkl/goterm/term"
 )
 
 func main() {
@@ -176,8 +176,8 @@ package main
 
 import (
 	"math"
-	"term"
-	"term/df"
+	"github.com/discoverkl/goterm/term"
+	"github.com/discoverkl/goterm/df"
 )
 
 func main() {
@@ -196,8 +196,8 @@ package main
 
 import (
 	"math"
-	"term"
-	"term/df"
+	"github.com/discoverkl/goterm/term"
+	"github.com/discoverkl/goterm/df"
 	"term/df/vs"
 )
 
@@ -224,7 +224,7 @@ You can print any HTML content as a block, even a whole web page (which will be 
 package main
 
 import (
-	"term"
+	"github.com/discoverkl/goterm/term"
 )
 
 func main() {
@@ -343,8 +343,8 @@ package main
 
 import (
 	"math/rand"
-	"term"
-	"term/df"
+	"github.com/discoverkl/goterm/term"
+	"github.com/discoverkl/goterm/df"
 
 	"github.com/go-echarts/go-echarts/v2/charts"
 	"github.com/go-echarts/go-echarts/v2/opts"
@@ -393,8 +393,8 @@ This example shows how to display a custom `gonum` plot.
 package main
 
 import (
-	"term"
-	"term/df"
+	"github.com/discoverkl/goterm/term"
+	"github.com/discoverkl/goterm/df"
 
 	"gonum.org/v1/plot"
 	"gonum.org/v1/plot/plotter"
@@ -462,8 +462,8 @@ package main
 
 import (
 	"log"
-	"term"
-	"term/df"
+	"github.com/discoverkl/goterm/term"
+	"github.com/discoverkl/goterm/df"
 )
 
 func main() {
@@ -483,8 +483,8 @@ func main() {
 package main
 
 import (
-	"term"
-	"term/df"
+	"github.com/discoverkl/goterm/term"
+	"github.com/discoverkl/goterm/df"
 )
 
 func main() {
