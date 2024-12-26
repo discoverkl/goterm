@@ -8,6 +8,8 @@ It has built-in support for `go-echarts` and `gogum/plot` and can be extended to
 
 # Basic Usage
 
+`go get github.com/discoverkl/goterm`
+
 ## Chart
 
 ### DataFrame
